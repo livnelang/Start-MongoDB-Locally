@@ -9,4 +9,7 @@ Local MongoDB Manual
 - Open a new CMD window
 - Navigate to your : C:\MongoDB\Server\3.1\bin Dir from CMD
 - Run mongod
+
+### 3. Create A New DB: 
+- > use 'database_name'
  
